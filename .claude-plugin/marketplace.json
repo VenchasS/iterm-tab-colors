@@ -1,0 +1,19 @@
+{
+  "name": "iterm-tab-colors",
+  "description": "Цвет вкладки iTerm2 по состоянию сессии Claude Code",
+  "owner": {
+    "name": "venchass"
+  },
+  "plugins": [
+    {
+      "name": "iterm-tab-colors",
+      "description": "Красит вкладку iTerm2 по состоянию сессии Claude Code: оранжевая — работает, фиолетовая — ждёт ответа, зелёная — закончил, красная — упал",
+      "author": {
+        "name": "venchass"
+      },
+      "version": "1.0.1",
+      "category": "productivity",
+      "source": "./plugin"
+    }
+  ]
+}

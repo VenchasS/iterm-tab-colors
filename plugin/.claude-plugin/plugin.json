@@ -1,0 +1,8 @@
+{
+  "name": "iterm-tab-colors",
+  "version": "1.0.1",
+  "description": "Красит вкладку iTerm2 по состоянию сессии Claude Code: оранжевая — работает, фиолетовая — ждёт ответа, зелёная — закончил, красная — упал",
+  "author": {
+    "name": "venchass"
+  }
+}
